@@ -1,0 +1,3098 @@
+[
+  {
+    "document_id": "HR-001",
+    "title": "Employee Handbook",
+    "department": "HR",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "HR Operations",
+    "related_document_ids": [
+      "IT-003"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Employee Handbook is maintained by HR Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Core collaboration hours are 10 AM\u20133 PM local time."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to HR Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about employee handbook. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-003. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from HR Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-003. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/HR-001.docx"
+  },
+  {
+    "document_id": "HR-002",
+    "title": "US PTO Policy",
+    "department": "HR",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "HR Operations",
+    "related_document_ids": [
+      "IT-003"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. US PTO Policy is maintained by HR Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "US employees earn 15 days in years 0\u20132, 20 days in years 3\u20135, and 25 days after five years."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to HR Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about us pto policy. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-003. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from HR Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-003. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/HR-002.md"
+  },
+  {
+    "document_id": "HR-003",
+    "title": "India Leave Policy",
+    "department": "HR",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "India",
+    "access_level": "All Employees",
+    "owner": "HR Operations",
+    "related_document_ids": [
+      "IT-003"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to India NovaTech staff and authorized stakeholders. India Leave Policy is maintained by HR Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "India employees receive 18 annual leave days and 10 sick days."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to HR Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about india leave policy. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-003. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from HR Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-003. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/HR-003.json"
+  },
+  {
+    "document_id": "HR-004",
+    "title": "Hybrid Work Policy",
+    "department": "HR",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "HR Operations",
+    "related_document_ids": [
+      "IT-003"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Hybrid Work Policy is maintained by HR Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "US hybrid staff work onsite Tuesdays and Thursdays; exceptions need HR and manager approval."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to HR Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about hybrid work policy. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-003. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from HR Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-003. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/HR-004.pdf"
+  },
+  {
+    "document_id": "HR-005",
+    "title": "Benefits Enrollment",
+    "department": "HR",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "HR Operations",
+    "related_document_ids": [
+      "IT-003"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Benefits Enrollment is maintained by HR Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "New hires enroll within 30 calendar days of starting."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to HR Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about benefits enrollment. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-003. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from HR Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-003. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/HR-005.docx"
+  },
+  {
+    "document_id": "HR-006",
+    "title": "Onboarding Checklist",
+    "department": "HR",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "HR Operations",
+    "related_document_ids": [
+      "IT-003"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Onboarding Checklist is maintained by HR Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "HR creates records five business days before start; IT provisions accounts; Operations issues badge on day one."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to HR Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about onboarding checklist. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-003. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from HR Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-003. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/HR-006.md"
+  },
+  {
+    "document_id": "HR-007",
+    "title": "Offboarding Policy",
+    "department": "HR",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "HR Operations",
+    "related_document_ids": [
+      "IT-003"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Offboarding Policy is maintained by HR Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "HR alerts IT and Finance two business days before separation; IT disables accounts at separation time."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to HR Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about offboarding policy. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-003. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from HR Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-003. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/HR-007.json"
+  },
+  {
+    "document_id": "HR-008",
+    "title": "Learning Reimbursement",
+    "department": "HR",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "HR Operations",
+    "related_document_ids": [
+      "IT-003"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Learning Reimbursement is maintained by HR Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Learning reimbursement is capped at $1,200/year with manager preapproval."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to HR Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about learning reimbursement. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-003. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from HR Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-003. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/HR-008.pdf"
+  },
+  {
+    "document_id": "HR-009",
+    "title": "Personnel Records",
+    "department": "HR",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "Restricted",
+    "owner": "HR Operations",
+    "related_document_ids": [
+      "IT-003"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Personnel Records is maintained by HR Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Personnel files are Restricted; retention follows LEGAL-003."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to HR Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about personnel records. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-003. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from HR Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-003. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/HR-009.docx"
+  },
+  {
+    "document_id": "IT-001",
+    "title": "MFA Standard",
+    "department": "IT",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "IT Operations",
+    "related_document_ids": [
+      "LEGAL-002"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. MFA Standard is maintained by IT Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "MFA is required for all accounts; administrators use phishing-resistant MFA."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to IT Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about mfa standard. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-002. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from IT Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-002. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/IT-001.md"
+  },
+  {
+    "document_id": "IT-002",
+    "title": "Managed Device Policy",
+    "department": "IT",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "IT Operations",
+    "related_document_ids": [
+      "LEGAL-002"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Managed Device Policy is maintained by IT Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Devices require disk encryption; BYOD cannot download customer exports."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to IT Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about managed device policy. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-002. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from IT Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-002. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/IT-002.json"
+  },
+  {
+    "document_id": "IT-003",
+    "title": "Application Access",
+    "department": "IT",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "IT Operations",
+    "related_document_ids": [
+      "LEGAL-002"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Application Access is maintained by IT Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Managers approve standard access; data owners approve restricted access; target two business days."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to IT Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about application access. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-002. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from IT Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-002. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/IT-003.pdf"
+  },
+  {
+    "document_id": "IT-004",
+    "title": "Lost Device Runbook",
+    "department": "IT",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "IT Operations",
+    "related_document_ids": [
+      "LEGAL-002"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Lost Device Runbook is maintained by IT Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Report lost devices to Security within one hour; revoke sessions and remotely lock device."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to IT Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about lost device runbook. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-002. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from IT Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-002. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/IT-004.docx"
+  },
+  {
+    "document_id": "IT-005",
+    "title": "Security Incident Severity",
+    "department": "IT",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "IT Operations",
+    "related_document_ids": [
+      "LEGAL-002"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Security Incident Severity is maintained by IT Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "P1 includes active customer data exposure; escalate immediately."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to IT Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about security incident severity. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-002. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from IT Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-002. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/IT-005.md"
+  },
+  {
+    "document_id": "IT-006",
+    "title": "Approved AI Tools",
+    "department": "IT",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "IT Operations",
+    "related_document_ids": [
+      "LEGAL-002"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Approved AI Tools is maintained by IT Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Public AI tools must not receive customer PII; new SaaS requires Security and Finance review."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to IT Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about approved ai tools. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-002. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from IT Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-002. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/IT-006.json"
+  },
+  {
+    "document_id": "IT-007",
+    "title": "Backup Policy",
+    "department": "IT",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "IT Operations",
+    "related_document_ids": [
+      "LEGAL-002"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Backup Policy is maintained by IT Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Tier-1 RPO is one hour and RTO is four hours; quarterly restore tests."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to IT Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about backup policy. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-002. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from IT Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-002. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/IT-007.pdf"
+  },
+  {
+    "document_id": "IT-008",
+    "title": "Privileged Access",
+    "department": "IT",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "IT Operations",
+    "related_document_ids": [
+      "LEGAL-002"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Privileged Access is maintained by IT Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Privileged grants last eight hours and require ticket and approval."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to IT Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about privileged access. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-002. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from IT Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-002. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/IT-008.docx"
+  },
+  {
+    "document_id": "IT-009",
+    "title": "IT Service Desk",
+    "department": "IT",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "IT Operations",
+    "related_document_ids": [
+      "LEGAL-002"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. IT Service Desk is maintained by IT Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "P1 immediate response; P2 four business hours; P3 two business days."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to IT Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about it service desk. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-002. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from IT Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-002. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/IT-009.md"
+  },
+  {
+    "document_id": "FIN-001",
+    "title": "Travel Expense Policy 2026",
+    "department": "FIN",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "FIN Operations",
+    "related_document_ids": [
+      "LEGAL-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Travel Expense Policy 2026 is maintained by FIN Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Current US meal per diem is $90/day; hotel cap $220/night; submit claims within 30 days."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to FIN Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about travel expense policy 2026. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from FIN Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/FIN-001.json"
+  },
+  {
+    "document_id": "FIN-002",
+    "title": "Travel Expense Policy 2025",
+    "department": "FIN",
+    "version": "1.0",
+    "effective_date": "2025-01-01",
+    "status": "Superseded",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "FIN Operations",
+    "related_document_ids": [
+      "LEGAL-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Travel Expense Policy 2025 is maintained by FIN Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "SUPERSEDED: former US meal per diem $75/day and hotel cap $190; expired December 31 2025."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to FIN Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about travel expense policy 2025. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from FIN Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/FIN-002.pdf"
+  },
+  {
+    "document_id": "FIN-003",
+    "title": "Purchase Approval",
+    "department": "FIN",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "FIN Operations",
+    "related_document_ids": [
+      "LEGAL-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Purchase Approval is maintained by FIN Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Up to $500 manager; $501\u2013$5,000 director; above $5,000 Finance Controller."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to FIN Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about purchase approval. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from FIN Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/FIN-003.docx"
+  },
+  {
+    "document_id": "FIN-004",
+    "title": "Conference Expenses",
+    "department": "FIN",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "FIN Operations",
+    "related_document_ids": [
+      "LEGAL-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Conference Expenses is maintained by FIN Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Conference tickets up to $1,500 need manager and budget-owner preapproval; above requires Controller."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to FIN Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about conference expenses. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from FIN Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/FIN-004.md"
+  },
+  {
+    "document_id": "FIN-005",
+    "title": "Corporate Cards",
+    "department": "FIN",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "FIN Operations",
+    "related_document_ids": [
+      "LEGAL-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Corporate Cards is maintained by FIN Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Receipts required for purchases above $25; upload within seven days."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to FIN Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about corporate cards. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from FIN Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/FIN-005.json"
+  },
+  {
+    "document_id": "FIN-006",
+    "title": "Vendor Payments",
+    "department": "FIN",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "FIN Operations",
+    "related_document_ids": [
+      "LEGAL-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Vendor Payments is maintained by FIN Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Approved invoices paid net 30; vendors must clear Legal and Security onboarding."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to FIN Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about vendor payments. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from FIN Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/FIN-006.pdf"
+  },
+  {
+    "document_id": "FIN-007",
+    "title": "Budget Calendar",
+    "department": "FIN",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "FIN Operations",
+    "related_document_ids": [
+      "LEGAL-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Budget Calendar is maintained by FIN Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Draft budgets due September 15; final approval November 15."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to FIN Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about budget calendar. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from FIN Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/FIN-007.docx"
+  },
+  {
+    "document_id": "FIN-008",
+    "title": "Customer Refunds",
+    "department": "FIN",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "All Employees",
+    "owner": "FIN Operations",
+    "related_document_ids": [
+      "LEGAL-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Customer Refunds is maintained by FIN Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Refunds up to $2,000 need CS director; larger require Controller and Legal."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to FIN Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about customer refunds. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from FIN Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/FIN-008.md"
+  },
+  {
+    "document_id": "FIN-009",
+    "title": "Payroll Data",
+    "department": "FIN",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "US",
+    "access_level": "Restricted",
+    "owner": "FIN Operations",
+    "related_document_ids": [
+      "LEGAL-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to US NovaTech staff and authorized stakeholders. Payroll Data is maintained by FIN Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Payroll exports are Restricted to approved Finance groups."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to FIN Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about payroll data. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in LEGAL-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from FIN Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult LEGAL-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/FIN-009.json"
+  },
+  {
+    "document_id": "LEGAL-001",
+    "title": "Code of Conduct",
+    "department": "LEGAL",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "LEGAL Operations",
+    "related_document_ids": [
+      "IT-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Code of Conduct is maintained by LEGAL Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Disclose conflicts within five business days; gifts above $100 need Compliance approval."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to LEGAL Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about code of conduct. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from LEGAL Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/LEGAL-001.pdf"
+  },
+  {
+    "document_id": "LEGAL-002",
+    "title": "Customer Privacy",
+    "department": "LEGAL",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "LEGAL Operations",
+    "related_document_ids": [
+      "IT-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Customer Privacy is maintained by LEGAL Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Customer PII is Restricted; access needs business purpose and least privilege."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to LEGAL Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about customer privacy. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from LEGAL Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/LEGAL-002.docx"
+  },
+  {
+    "document_id": "LEGAL-003",
+    "title": "Retention Schedule",
+    "department": "LEGAL",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "LEGAL Operations",
+    "related_document_ids": [
+      "IT-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Retention Schedule is maintained by LEGAL Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Contracts retained seven years after termination; personnel files six years after separation, unless legal hold."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to LEGAL Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about retention schedule. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from LEGAL Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/LEGAL-003.md"
+  },
+  {
+    "document_id": "LEGAL-004",
+    "title": "Vendor Due Diligence",
+    "department": "LEGAL",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "LEGAL Operations",
+    "related_document_ids": [
+      "IT-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Vendor Due Diligence is maintained by LEGAL Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Customer-data vendors need Security assessment, DPA and Legal sign-off before transfer."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to LEGAL Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about vendor due diligence. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from LEGAL Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/LEGAL-004.json"
+  },
+  {
+    "document_id": "LEGAL-005",
+    "title": "Conflict Declarations",
+    "department": "LEGAL",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "LEGAL Operations",
+    "related_document_ids": [
+      "IT-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Conflict Declarations is maintained by LEGAL Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Annual declarations due January 31; update material changes within five business days."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to LEGAL Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about conflict declarations. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from LEGAL Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/LEGAL-005.pdf"
+  },
+  {
+    "document_id": "LEGAL-006",
+    "title": "AI Governance",
+    "department": "LEGAL",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "LEGAL Operations",
+    "related_document_ids": [
+      "IT-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. AI Governance is maintained by LEGAL Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Customer-facing AI content needs human review; PII only in approved contracted AI environments."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to LEGAL Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about ai governance. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from LEGAL Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/LEGAL-006.docx"
+  },
+  {
+    "document_id": "LEGAL-007",
+    "title": "Legal Holds",
+    "department": "LEGAL",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "Restricted",
+    "owner": "LEGAL Operations",
+    "related_document_ids": [
+      "IT-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Legal Holds is maintained by LEGAL Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Legal holds override deletion; data owners confirm preservation within two business days."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to LEGAL Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about legal holds. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from LEGAL Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/LEGAL-007.md"
+  },
+  {
+    "document_id": "LEGAL-008",
+    "title": "Signature Authority",
+    "department": "LEGAL",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "LEGAL Operations",
+    "related_document_ids": [
+      "IT-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Signature Authority is maintained by LEGAL Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Contracts above $100,000 annual value need VP approval and Legal review."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to LEGAL Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about signature authority. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from LEGAL Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/LEGAL-008.json"
+  },
+  {
+    "document_id": "LEGAL-009",
+    "title": "Classification Standard",
+    "department": "LEGAL",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "LEGAL Operations",
+    "related_document_ids": [
+      "IT-004"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Classification Standard is maintained by LEGAL Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Public, Internal, Confidential, Restricted; Restricted requires explicit entitlement and audit log."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to LEGAL Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about classification standard. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-004. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from LEGAL Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult IT-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/LEGAL-009.pdf"
+  },
+  {
+    "document_id": "PROD-001",
+    "title": "NovaCRM Overview",
+    "department": "PROD",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "PROD Operations",
+    "related_document_ids": [
+      "SALES-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. NovaCRM Overview is maintained by PROD Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Enterprise supports SAML SSO and SCIM; Starter does not support SSO."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to PROD Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about novacrm overview. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in SALES-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from PROD Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult SALES-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/PROD-001.docx"
+  },
+  {
+    "document_id": "PROD-002",
+    "title": "Release Notes Q3",
+    "department": "PROD",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "PROD Operations",
+    "related_document_ids": [
+      "SALES-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Release Notes Q3 is maintained by PROD Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Release 4.8 introduced Enterprise audit-log export; bulk export API remains beta."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to PROD Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about release notes q3. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in SALES-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from PROD Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult SALES-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/PROD-002.md"
+  },
+  {
+    "document_id": "PROD-003",
+    "title": "Prioritization Framework",
+    "department": "PROD",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "PROD Operations",
+    "related_document_ids": [
+      "SALES-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Prioritization Framework is maintained by PROD Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Score impact 40%, strategy 30%, effort 20%, risk 10%."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to PROD Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about prioritization framework. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in SALES-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from PROD Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult SALES-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/PROD-003.json"
+  },
+  {
+    "document_id": "PROD-004",
+    "title": "Feature Intake",
+    "department": "PROD",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "PROD Operations",
+    "related_document_ids": [
+      "SALES-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Feature Intake is maintained by PROD Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Requests need account ID, problem, frequency and impact; reviewed weekly."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to PROD Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about feature intake. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in SALES-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from PROD Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult SALES-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/PROD-004.pdf"
+  },
+  {
+    "document_id": "PROD-005",
+    "title": "API Tier Matrix",
+    "department": "PROD",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "PROD Operations",
+    "related_document_ids": [
+      "SALES-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. API Tier Matrix is maintained by PROD Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Enterprise 600 requests/min, Growth 200, Starter 60."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to PROD Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about api tier matrix. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in SALES-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from PROD Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult SALES-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/PROD-005.docx"
+  },
+  {
+    "document_id": "PROD-006",
+    "title": "Analytics Events",
+    "department": "PROD",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "PROD Operations",
+    "related_document_ids": [
+      "SALES-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Analytics Events is maintained by PROD Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Events require event_name, timestamp, account_id and anonymized user_id; no raw emails."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to PROD Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about analytics events. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in SALES-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from PROD Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult SALES-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/PROD-006.md"
+  },
+  {
+    "document_id": "PROD-007",
+    "title": "Restricted Q4 Roadmap",
+    "department": "PROD",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "Restricted",
+    "owner": "PROD Operations",
+    "related_document_ids": [
+      "SALES-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Restricted Q4 Roadmap is maintained by PROD Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "CONFIDENTIAL: workflow automation beta targeted December 2026, not a contractual commitment."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to PROD Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about restricted q4 roadmap. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in SALES-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from PROD Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult SALES-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/PROD-007.json"
+  },
+  {
+    "document_id": "PROD-008",
+    "title": "Launch Readiness",
+    "department": "PROD",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "PROD Operations",
+    "related_document_ids": [
+      "SALES-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Launch Readiness is maintained by PROD Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "GA needs Security approval, docs, support training, rollback plan and CS notice."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to PROD Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about launch readiness. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in SALES-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from PROD Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult SALES-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/PROD-008.pdf"
+  },
+  {
+    "document_id": "PROD-009",
+    "title": "Beta Program",
+    "department": "PROD",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "PROD Operations",
+    "related_document_ids": [
+      "SALES-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Beta Program is maintained by PROD Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Pilot addendum and weekly feedback required; no guaranteed GA date."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to PROD Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about beta program. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in SALES-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from PROD Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult SALES-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/PROD-009.docx"
+  },
+  {
+    "document_id": "ENG-001",
+    "title": "REST API Guide",
+    "department": "ENG",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "ENG Operations",
+    "related_document_ids": [
+      "PROD-005"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. REST API Guide is maintained by ENG Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "OAuth2 bearer tokens; HTTP 429 includes Retry-After; tier limits in PROD-005."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to ENG Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about rest api guide. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-005. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from ENG Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-005. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/ENG-001.md"
+  },
+  {
+    "document_id": "ENG-002",
+    "title": "Deployment SOP",
+    "department": "ENG",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "ENG Operations",
+    "related_document_ids": [
+      "PROD-005"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Deployment SOP is maintained by ENG Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Deploy requires peer review, green CI, change ticket and on-call owner."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to ENG Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about deployment sop. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-005. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from ENG Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-005. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/ENG-002.json"
+  },
+  {
+    "document_id": "ENG-003",
+    "title": "Rollback Runbook",
+    "department": "ENG",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "ENG Operations",
+    "related_document_ids": [
+      "PROD-005"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Rollback Runbook is maintained by ENG Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Rollback when post-deploy errors exceed 5% for ten minutes; notify CS."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to ENG Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about rollback runbook. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-005. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from ENG Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-005. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/ENG-003.pdf"
+  },
+  {
+    "document_id": "ENG-004",
+    "title": "Code Review",
+    "department": "ENG",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "ENG Operations",
+    "related_document_ids": [
+      "PROD-005"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Code Review is maintained by ENG Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "One independent reviewer; authentication and billing changes require two."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to ENG Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about code review. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-005. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from ENG Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-005. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/ENG-004.docx"
+  },
+  {
+    "document_id": "ENG-005",
+    "title": "Disaster Recovery",
+    "department": "ENG",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "ENG Operations",
+    "related_document_ids": [
+      "PROD-005"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Disaster Recovery is maintained by ENG Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Tier-1 RTO four hours and RPO one hour; twice-yearly DR simulation."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to ENG Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about disaster recovery. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-005. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from ENG Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-005. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/ENG-005.md"
+  },
+  {
+    "document_id": "ENG-006",
+    "title": "Service Ownership",
+    "department": "ENG",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "ENG Operations",
+    "related_document_ids": [
+      "PROD-005"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Service Ownership is maintained by ENG Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "API owned by Platform; auth by Identity; billing by Revenue Systems."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to ENG Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about service ownership. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-005. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from ENG Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-005. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/ENG-006.json"
+  },
+  {
+    "document_id": "ENG-007",
+    "title": "Pipeline Operations",
+    "department": "ENG",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "ENG Operations",
+    "related_document_ids": [
+      "PROD-005"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Pipeline Operations is maintained by ENG Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Retry event ingestion for 24 hours then send to dead-letter queue."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to ENG Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about pipeline operations. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-005. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from ENG Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-005. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/ENG-007.pdf"
+  },
+  {
+    "document_id": "ENG-008",
+    "title": "Alerting Standard",
+    "department": "ENG",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "ENG Operations",
+    "related_document_ids": [
+      "PROD-005"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Alerting Standard is maintained by ENG Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "P1 API alert at 10% errors for five minutes; page on-call."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to ENG Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about alerting standard. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-005. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from ENG Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-005. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/ENG-008.docx"
+  },
+  {
+    "document_id": "ENG-009",
+    "title": "Developer Setup",
+    "department": "ENG",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "ENG Operations",
+    "related_document_ids": [
+      "PROD-005"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Developer Setup is maintained by ENG Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "No production data on laptops without de-identification and approval."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to ENG Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about developer setup. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-005. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from ENG Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-005. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/ENG-009.md"
+  },
+  {
+    "document_id": "SALES-001",
+    "title": "Packaging",
+    "department": "SALES",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "SALES Operations",
+    "related_document_ids": [
+      "PROD-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Packaging is maintained by SALES Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Starter $39/user/month, Growth $79, Enterprise custom; SSO Enterprise only."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to SALES Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about packaging. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from SALES Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/SALES-001.json"
+  },
+  {
+    "document_id": "SALES-002",
+    "title": "Customer Onboarding",
+    "department": "SALES",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "SALES Operations",
+    "related_document_ids": [
+      "PROD-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Customer Onboarding is maintained by SALES Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Kickoff within five business days of signature; Enterprise includes SSO setup."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to SALES Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about customer onboarding. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from SALES Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/SALES-002.pdf"
+  },
+  {
+    "document_id": "SALES-003",
+    "title": "Escalation and Credits",
+    "department": "SALES",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "SALES Operations",
+    "related_document_ids": [
+      "PROD-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Escalation and Credits is maintained by SALES Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "SLA credits above $2,000 require Finance Controller and Legal review."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to SALES Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about escalation and credits. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from SALES Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/SALES-003.docx"
+  },
+  {
+    "document_id": "SALES-004",
+    "title": "Support SLA",
+    "department": "SALES",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "SALES Operations",
+    "related_document_ids": [
+      "PROD-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Support SLA is maintained by SALES Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "P1 response 30 minutes; P2 four hours; P3 one business day; Enterprise P1 24/7."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to SALES Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about support sla. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from SALES Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/SALES-004.md"
+  },
+  {
+    "document_id": "SALES-005",
+    "title": "Renewal Playbook",
+    "department": "SALES",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "SALES Operations",
+    "related_document_ids": [
+      "PROD-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Renewal Playbook is maintained by SALES Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Begin outreach 90 days before contract end; escalate risk within five business days."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to SALES Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about renewal playbook. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from SALES Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/SALES-005.json"
+  },
+  {
+    "document_id": "SALES-006",
+    "title": "Discount Approval",
+    "department": "SALES",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "SALES Operations",
+    "related_document_ids": [
+      "PROD-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Discount Approval is maintained by SALES Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Up to 10% sales manager; 11\u201320% director; above 20% VP and Finance."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to SALES Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about discount approval. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from SALES Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/SALES-006.pdf"
+  },
+  {
+    "document_id": "SALES-007",
+    "title": "Security Questionnaires",
+    "department": "SALES",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "SALES Operations",
+    "related_document_ids": [
+      "PROD-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Security Questionnaires is maintained by SALES Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Route to Security; Sales cannot invent certifications."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to SALES Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about security questionnaires. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from SALES Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/SALES-007.docx"
+  },
+  {
+    "document_id": "SALES-008",
+    "title": "Customer Health",
+    "department": "SALES",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "SALES Operations",
+    "related_document_ids": [
+      "PROD-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Customer Health is maintained by SALES Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Adoption 40%, support 30%, sponsor 20%, payment 10%."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to SALES Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about customer health. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from SALES Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/SALES-008.md"
+  },
+  {
+    "document_id": "SALES-009",
+    "title": "POC Policy",
+    "department": "SALES",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "SALES Operations",
+    "related_document_ids": [
+      "PROD-001"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. POC Policy is maintained by SALES Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Default POC 30 days; extensions need Product and Sales directors."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to SALES Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about poc policy. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in PROD-001. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from SALES Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult PROD-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/SALES-009.json"
+  },
+  {
+    "document_id": "OPS-001",
+    "title": "Office Badges",
+    "department": "OPS",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "OPS Operations",
+    "related_document_ids": [
+      "HR-007"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Office Badges is maintained by OPS Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Badges issued on day one after HR verification; report lost badges within one hour."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to OPS Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about office badges. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in HR-007. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from OPS Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult HR-007. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/OPS-001.pdf"
+  },
+  {
+    "document_id": "OPS-002",
+    "title": "Facilities Requests",
+    "department": "OPS",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "OPS Operations",
+    "related_document_ids": [
+      "HR-007"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Facilities Requests is maintained by OPS Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Routine requests three business days; urgent hazards immediately."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to OPS Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about facilities requests. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in HR-007. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from OPS Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult HR-007. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/OPS-002.docx"
+  },
+  {
+    "document_id": "OPS-003",
+    "title": "Continuity Plan",
+    "department": "OPS",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "OPS Operations",
+    "related_document_ids": [
+      "HR-007"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Continuity Plan is maintained by OPS Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Office closures: managers notify teams within two hours."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to OPS Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about continuity plan. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in HR-007. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from OPS Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult HR-007. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/OPS-003.md"
+  },
+  {
+    "document_id": "OPS-004",
+    "title": "Asset Allocation",
+    "department": "OPS",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "OPS Operations",
+    "related_document_ids": [
+      "HR-007"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Asset Allocation is maintained by OPS Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Laptops and monitors assigned asset IDs and custody acknowledgment."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to OPS Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about asset allocation. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in HR-007. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from OPS Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult HR-007. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/OPS-004.json"
+  },
+  {
+    "document_id": "OPS-005",
+    "title": "Asset Return",
+    "department": "OPS",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "OPS Operations",
+    "related_document_ids": [
+      "HR-007"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Asset Return is maintained by OPS Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Return laptop, badge and peripherals by last day; IT disables accounts at separation."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to OPS Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about asset return. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in HR-007. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from OPS Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult HR-007. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/OPS-005.pdf"
+  },
+  {
+    "document_id": "OPS-006",
+    "title": "Visitor Policy",
+    "department": "OPS",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "OPS Operations",
+    "related_document_ids": [
+      "HR-007"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Visitor Policy is maintained by OPS Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Visitors register and show ID; retain logs 90 days."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to OPS Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about visitor policy. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in HR-007. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from OPS Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult HR-007. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "docx",
+    "file_path": "documents/OPS-006.docx"
+  },
+  {
+    "document_id": "OPS-007",
+    "title": "Emergency Evacuation",
+    "department": "OPS",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "OPS Operations",
+    "related_document_ids": [
+      "HR-007"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Emergency Evacuation is maintained by OPS Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Use assembly points; do not reenter before responders clear."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to OPS Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about emergency evacuation. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in HR-007. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from OPS Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult HR-007. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "md",
+    "file_path": "documents/OPS-007.md"
+  },
+  {
+    "document_id": "OPS-008",
+    "title": "Equipment Shipping",
+    "department": "OPS",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "OPS Operations",
+    "related_document_ids": [
+      "HR-007"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Equipment Shipping is maintained by OPS Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "Tracked courier; return labels issued within two business days."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to OPS Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about equipment shipping. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in HR-007. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from OPS Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult HR-007. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "json",
+    "file_path": "documents/OPS-008.json"
+  },
+  {
+    "document_id": "OPS-009",
+    "title": "Remote Stipend",
+    "department": "OPS",
+    "version": "2.0",
+    "effective_date": "2026-01-01",
+    "status": "Active",
+    "region": "Global",
+    "access_level": "All Employees",
+    "owner": "OPS Operations",
+    "related_document_ids": [
+      "HR-007"
+    ],
+    "synthetic": true,
+    "sections": [
+      {
+        "heading": "Scope",
+        "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Remote Stipend is maintained by OPS Operations."
+      },
+      {
+        "heading": "Policy requirement",
+        "text": "One-time $300 ergonomic stipend with manager approval and receipt."
+      },
+      {
+        "heading": "Implementation steps",
+        "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to OPS Operations."
+      },
+      {
+        "heading": "Worked example",
+        "text": "A staff member asks about remote stipend. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in HR-007. Do not use superseded guidance for current requests."
+      },
+      {
+        "heading": "Controls and exceptions",
+        "text": "Exceptions need written approval from OPS Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+      },
+      {
+        "heading": "Cross-department handoff",
+        "text": "For overlapping questions, consult HR-007. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+      }
+    ],
+    "format": "pdf",
+    "file_path": "documents/OPS-009.pdf"
+  }
+]
