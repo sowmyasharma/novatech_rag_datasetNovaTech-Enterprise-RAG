@@ -1,0 +1,43 @@
+{
+  "document_id": "PROD-003",
+  "title": "Prioritization Framework",
+  "department": "PROD",
+  "version": "2.0",
+  "effective_date": "2026-01-01",
+  "status": "Active",
+  "region": "Global",
+  "access_level": "All Employees",
+  "owner": "PROD Operations",
+  "related_document_ids": [
+    "SALES-001"
+  ],
+  "synthetic": true,
+  "sections": [
+    {
+      "heading": "Scope",
+      "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Prioritization Framework is maintained by PROD Operations."
+    },
+    {
+      "heading": "Policy requirement",
+      "text": "Score impact 40%, strategy 30%, effort 20%, risk 10%."
+    },
+    {
+      "heading": "Implementation steps",
+      "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to PROD Operations."
+    },
+    {
+      "heading": "Worked example",
+      "text": "A staff member asks about prioritization framework. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in SALES-001. Do not use superseded guidance for current requests."
+    },
+    {
+      "heading": "Controls and exceptions",
+      "text": "Exceptions need written approval from PROD Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+    },
+    {
+      "heading": "Cross-department handoff",
+      "text": "For overlapping questions, consult SALES-001. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+    }
+  ],
+  "format": "json",
+  "file_path": "documents/PROD-003.json"
+}

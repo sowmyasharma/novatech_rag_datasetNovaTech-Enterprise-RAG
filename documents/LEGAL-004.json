@@ -1,0 +1,43 @@
+{
+  "document_id": "LEGAL-004",
+  "title": "Vendor Due Diligence",
+  "department": "LEGAL",
+  "version": "2.0",
+  "effective_date": "2026-01-01",
+  "status": "Active",
+  "region": "Global",
+  "access_level": "All Employees",
+  "owner": "LEGAL Operations",
+  "related_document_ids": [
+    "IT-004"
+  ],
+  "synthetic": true,
+  "sections": [
+    {
+      "heading": "Scope",
+      "text": "This policy applies to Global NovaTech staff and authorized stakeholders. Vendor Due Diligence is maintained by LEGAL Operations."
+    },
+    {
+      "heading": "Policy requirement",
+      "text": "Customer-data vendors need Security assessment, DPA and Legal sign-off before transfer."
+    },
+    {
+      "heading": "Implementation steps",
+      "text": "1. Log the request, business purpose, owner, and applicable region. 2. Verify the current policy version and eligibility. 3. Obtain the designated approval before execution. 4. Record the outcome and evidence in the department tracking system. 5. Escalate exceptions to LEGAL Operations."
+    },
+    {
+      "heading": "Worked example",
+      "text": "A staff member asks about vendor due diligence. The reviewer checks the rule above, validates employee scope, records approvals, and follows the related procedure in IT-004. Do not use superseded guidance for current requests."
+    },
+    {
+      "heading": "Controls and exceptions",
+      "text": "Exceptions need written approval from LEGAL Operations. Confidential or Restricted material must only be retrieved for entitled roles. The owning team reviews the policy annually."
+    },
+    {
+      "heading": "Cross-department handoff",
+      "text": "For overlapping questions, consult IT-004. If policies disagree, use the active version effective on the relevant date and escalate unresolved conflicts to the owners."
+    }
+  ],
+  "format": "json",
+  "file_path": "documents/LEGAL-004.json"
+}
